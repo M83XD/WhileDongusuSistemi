@@ -1,1 +1,1 @@
-# WhileDongusuSistemi
+# JavaScript'te while döngüsü, belirli bir koşul sağlandığı sürece blok içerisindeki kodların tekrar edilmesini sağlar. Condition ifadesi, her döngü öncesinde kontrol edilir ve koşul sağlandığı sürece döngü devam eder. Döngü bloğunun içindeki kodlar, koşul her sağlandığında tekrar çalışır.
